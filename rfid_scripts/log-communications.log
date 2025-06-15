@@ -1,0 +1,151 @@
+2025-03-30 14:07:31,164:DEBUG:STREAM b'IHDR' 16 13
+2025-03-30 14:07:31,164:DEBUG:STREAM b'iCCP' 41 1038
+2025-03-30 14:07:31,164:DEBUG:iCCP profile name b'kCGColorSpaceGenericRGB'
+2025-03-30 14:07:31,164:DEBUG:Compression method 0
+2025-03-30 14:07:31,164:DEBUG:STREAM b'eXIf' 1091 120
+2025-03-30 14:07:31,164:DEBUG:STREAM b'pHYs' 1223 9
+2025-03-30 14:07:31,164:DEBUG:STREAM b'iTXt' 1244 345
+2025-03-30 14:07:31,164:DEBUG:STREAM b'IDAT' 1601 4062
+2025-03-30 14:07:31,176:DEBUG:tag: Orientation (274) - type: short (3) - value: b'\x00\x01'
+2025-03-30 14:07:31,176:DEBUG:tag: XResolution (282) - type: rational (5) Tag Location: 34 - Data Location: 74 - value: b'\x00\x00\x00H\x00\x00\x00\x01'
+2025-03-30 14:07:31,176:DEBUG:tag: YResolution (283) - type: rational (5) Tag Location: 46 - Data Location: 82 - value: b'\x00\x00\x00H\x00\x00\x00\x01'
+2025-03-30 14:07:31,176:DEBUG:tag: Software (305) - type: string (2) Tag Location: 58 - Data Location: 90 - value: <table: 36 bytes>
+2025-03-30 14:07:31,176:DEBUG:tag: ExifIFD (34665) - type: long (4) - value: b'\x00\x00\x00~'
+2025-03-30 14:11:35,000:DEBUG:STREAM b'IHDR' 16 13
+2025-03-30 14:11:35,000:DEBUG:STREAM b'iCCP' 41 1038
+2025-03-30 14:11:35,000:DEBUG:iCCP profile name b'kCGColorSpaceGenericRGB'
+2025-03-30 14:11:35,000:DEBUG:Compression method 0
+2025-03-30 14:11:35,000:DEBUG:STREAM b'eXIf' 1091 120
+2025-03-30 14:11:35,001:DEBUG:STREAM b'pHYs' 1223 9
+2025-03-30 14:11:35,001:DEBUG:STREAM b'iTXt' 1244 345
+2025-03-30 14:11:35,001:DEBUG:STREAM b'IDAT' 1601 4062
+2025-03-30 14:11:35,011:DEBUG:tag: Orientation (274) - type: short (3) - value: b'\x00\x01'
+2025-03-30 14:11:35,011:DEBUG:tag: XResolution (282) - type: rational (5) Tag Location: 34 - Data Location: 74 - value: b'\x00\x00\x00H\x00\x00\x00\x01'
+2025-03-30 14:11:35,011:DEBUG:tag: YResolution (283) - type: rational (5) Tag Location: 46 - Data Location: 82 - value: b'\x00\x00\x00H\x00\x00\x00\x01'
+2025-03-30 14:11:35,011:DEBUG:tag: Software (305) - type: string (2) Tag Location: 58 - Data Location: 90 - value: <table: 36 bytes>
+2025-03-30 14:11:35,011:DEBUG:tag: ExifIFD (34665) - type: long (4) - value: b'\x00\x00\x00~'
+2025-03-30 14:17:29,278:DEBUG:STREAM b'IHDR' 16 13
+2025-03-30 14:17:29,278:DEBUG:STREAM b'iCCP' 41 1038
+2025-03-30 14:17:29,278:DEBUG:iCCP profile name b'kCGColorSpaceGenericRGB'
+2025-03-30 14:17:29,278:DEBUG:Compression method 0
+2025-03-30 14:17:29,279:DEBUG:STREAM b'eXIf' 1091 120
+2025-03-30 14:17:29,279:DEBUG:STREAM b'pHYs' 1223 9
+2025-03-30 14:17:29,279:DEBUG:STREAM b'iTXt' 1244 345
+2025-03-30 14:17:29,279:DEBUG:STREAM b'IDAT' 1601 4062
+2025-03-30 14:17:29,289:DEBUG:tag: Orientation (274) - type: short (3) - value: b'\x00\x01'
+2025-03-30 14:17:29,289:DEBUG:tag: XResolution (282) - type: rational (5) Tag Location: 34 - Data Location: 74 - value: b'\x00\x00\x00H\x00\x00\x00\x01'
+2025-03-30 14:17:29,289:DEBUG:tag: YResolution (283) - type: rational (5) Tag Location: 46 - Data Location: 82 - value: b'\x00\x00\x00H\x00\x00\x00\x01'
+2025-03-30 14:17:29,289:DEBUG:tag: Software (305) - type: string (2) Tag Location: 58 - Data Location: 90 - value: <table: 36 bytes>
+2025-03-30 14:17:29,289:DEBUG:tag: ExifIFD (34665) - type: long (4) - value: b'\x00\x00\x00~'
+2025-03-30 14:25:28,866:DEBUG:STREAM b'IHDR' 16 13
+2025-03-30 14:25:28,866:DEBUG:STREAM b'iCCP' 41 1038
+2025-03-30 14:25:28,866:DEBUG:iCCP profile name b'kCGColorSpaceGenericRGB'
+2025-03-30 14:25:28,866:DEBUG:Compression method 0
+2025-03-30 14:25:28,866:DEBUG:STREAM b'eXIf' 1091 120
+2025-03-30 14:25:28,867:DEBUG:STREAM b'pHYs' 1223 9
+2025-03-30 14:25:28,867:DEBUG:STREAM b'iTXt' 1244 345
+2025-03-30 14:25:28,867:DEBUG:STREAM b'IDAT' 1601 4062
+2025-03-30 14:25:28,879:DEBUG:tag: Orientation (274) - type: short (3) - value: b'\x00\x01'
+2025-03-30 14:25:28,879:DEBUG:tag: XResolution (282) - type: rational (5) Tag Location: 34 - Data Location: 74 - value: b'\x00\x00\x00H\x00\x00\x00\x01'
+2025-03-30 14:25:28,879:DEBUG:tag: YResolution (283) - type: rational (5) Tag Location: 46 - Data Location: 82 - value: b'\x00\x00\x00H\x00\x00\x00\x01'
+2025-03-30 14:25:28,879:DEBUG:tag: Software (305) - type: string (2) Tag Location: 58 - Data Location: 90 - value: <table: 36 bytes>
+2025-03-30 14:25:28,879:DEBUG:tag: ExifIFD (34665) - type: long (4) - value: b'\x00\x00\x00~'
+2025-03-30 14:28:35,784:DEBUG:STREAM b'IHDR' 16 13
+2025-03-30 14:28:35,784:DEBUG:STREAM b'iCCP' 41 1038
+2025-03-30 14:28:35,784:DEBUG:iCCP profile name b'kCGColorSpaceGenericRGB'
+2025-03-30 14:28:35,784:DEBUG:Compression method 0
+2025-03-30 14:28:35,784:DEBUG:STREAM b'eXIf' 1091 120
+2025-03-30 14:28:35,784:DEBUG:STREAM b'pHYs' 1223 9
+2025-03-30 14:28:35,785:DEBUG:STREAM b'iTXt' 1244 345
+2025-03-30 14:28:35,785:DEBUG:STREAM b'IDAT' 1601 4062
+2025-03-30 14:28:35,795:DEBUG:tag: Orientation (274) - type: short (3) - value: b'\x00\x01'
+2025-03-30 14:28:35,795:DEBUG:tag: XResolution (282) - type: rational (5) Tag Location: 34 - Data Location: 74 - value: b'\x00\x00\x00H\x00\x00\x00\x01'
+2025-03-30 14:28:35,795:DEBUG:tag: YResolution (283) - type: rational (5) Tag Location: 46 - Data Location: 82 - value: b'\x00\x00\x00H\x00\x00\x00\x01'
+2025-03-30 14:28:35,795:DEBUG:tag: Software (305) - type: string (2) Tag Location: 58 - Data Location: 90 - value: <table: 36 bytes>
+2025-03-30 14:28:35,795:DEBUG:tag: ExifIFD (34665) - type: long (4) - value: b'\x00\x00\x00~'
+2025-03-30 14:36:12,464:DEBUG:STREAM b'IHDR' 16 13
+2025-03-30 14:36:12,464:DEBUG:STREAM b'iCCP' 41 1038
+2025-03-30 14:36:12,464:DEBUG:iCCP profile name b'kCGColorSpaceGenericRGB'
+2025-03-30 14:36:12,464:DEBUG:Compression method 0
+2025-03-30 14:36:12,464:DEBUG:STREAM b'eXIf' 1091 120
+2025-03-30 14:36:12,464:DEBUG:STREAM b'pHYs' 1223 9
+2025-03-30 14:36:12,464:DEBUG:STREAM b'iTXt' 1244 345
+2025-03-30 14:36:12,464:DEBUG:STREAM b'IDAT' 1601 4062
+2025-03-30 14:36:12,477:DEBUG:tag: Orientation (274) - type: short (3) - value: b'\x00\x01'
+2025-03-30 14:36:12,477:DEBUG:tag: XResolution (282) - type: rational (5) Tag Location: 34 - Data Location: 74 - value: b'\x00\x00\x00H\x00\x00\x00\x01'
+2025-03-30 14:36:12,477:DEBUG:tag: YResolution (283) - type: rational (5) Tag Location: 46 - Data Location: 82 - value: b'\x00\x00\x00H\x00\x00\x00\x01'
+2025-03-30 14:36:12,477:DEBUG:tag: Software (305) - type: string (2) Tag Location: 58 - Data Location: 90 - value: <table: 36 bytes>
+2025-03-30 14:36:12,477:DEBUG:tag: ExifIFD (34665) - type: long (4) - value: b'\x00\x00\x00~'
+2025-03-30 14:53:20,967:DEBUG:STREAM b'IHDR' 16 13
+2025-03-30 14:53:20,967:DEBUG:STREAM b'iCCP' 41 1038
+2025-03-30 14:53:20,967:DEBUG:iCCP profile name b'kCGColorSpaceGenericRGB'
+2025-03-30 14:53:20,967:DEBUG:Compression method 0
+2025-03-30 14:53:20,968:DEBUG:STREAM b'eXIf' 1091 120
+2025-03-30 14:53:20,968:DEBUG:STREAM b'pHYs' 1223 9
+2025-03-30 14:53:20,968:DEBUG:STREAM b'iTXt' 1244 345
+2025-03-30 14:53:20,968:DEBUG:STREAM b'IDAT' 1601 4062
+2025-03-30 14:53:20,978:DEBUG:tag: Orientation (274) - type: short (3) - value: b'\x00\x01'
+2025-03-30 14:53:20,979:DEBUG:tag: XResolution (282) - type: rational (5) Tag Location: 34 - Data Location: 74 - value: b'\x00\x00\x00H\x00\x00\x00\x01'
+2025-03-30 14:53:20,979:DEBUG:tag: YResolution (283) - type: rational (5) Tag Location: 46 - Data Location: 82 - value: b'\x00\x00\x00H\x00\x00\x00\x01'
+2025-03-30 14:53:20,979:DEBUG:tag: Software (305) - type: string (2) Tag Location: 58 - Data Location: 90 - value: <table: 36 bytes>
+2025-03-30 14:53:20,979:DEBUG:tag: ExifIFD (34665) - type: long (4) - value: b'\x00\x00\x00~'
+2025-03-30 14:53:21,093:ERROR:JSON LOAD ERROR => FileNotFoundError(2, 'No such file or directory')
+2025-03-30 14:56:06,183:DEBUG:STREAM b'IHDR' 16 13
+2025-03-30 14:56:06,184:DEBUG:STREAM b'iCCP' 41 1038
+2025-03-30 14:56:06,184:DEBUG:iCCP profile name b'kCGColorSpaceGenericRGB'
+2025-03-30 14:56:06,184:DEBUG:Compression method 0
+2025-03-30 14:56:06,184:DEBUG:STREAM b'eXIf' 1091 120
+2025-03-30 14:56:06,184:DEBUG:STREAM b'pHYs' 1223 9
+2025-03-30 14:56:06,184:DEBUG:STREAM b'iTXt' 1244 345
+2025-03-30 14:56:06,184:DEBUG:STREAM b'IDAT' 1601 4062
+2025-03-30 14:56:06,195:DEBUG:tag: Orientation (274) - type: short (3) - value: b'\x00\x01'
+2025-03-30 14:56:06,195:DEBUG:tag: XResolution (282) - type: rational (5) Tag Location: 34 - Data Location: 74 - value: b'\x00\x00\x00H\x00\x00\x00\x01'
+2025-03-30 14:56:06,195:DEBUG:tag: YResolution (283) - type: rational (5) Tag Location: 46 - Data Location: 82 - value: b'\x00\x00\x00H\x00\x00\x00\x01'
+2025-03-30 14:56:06,195:DEBUG:tag: Software (305) - type: string (2) Tag Location: 58 - Data Location: 90 - value: <table: 36 bytes>
+2025-03-30 14:56:06,195:DEBUG:tag: ExifIFD (34665) - type: long (4) - value: b'\x00\x00\x00~'
+2025-03-30 14:56:06,316:ERROR:JSON LOAD ERROR => FileNotFoundError(2, 'No such file or directory')
+2025-03-30 15:00:15,474:DEBUG:STREAM b'IHDR' 16 13
+2025-03-30 15:00:15,474:DEBUG:STREAM b'iCCP' 41 1038
+2025-03-30 15:00:15,474:DEBUG:iCCP profile name b'kCGColorSpaceGenericRGB'
+2025-03-30 15:00:15,474:DEBUG:Compression method 0
+2025-03-30 15:00:15,474:DEBUG:STREAM b'eXIf' 1091 120
+2025-03-30 15:00:15,474:DEBUG:STREAM b'pHYs' 1223 9
+2025-03-30 15:00:15,475:DEBUG:STREAM b'iTXt' 1244 345
+2025-03-30 15:00:15,475:DEBUG:STREAM b'IDAT' 1601 4062
+2025-03-30 15:00:15,487:DEBUG:tag: Orientation (274) - type: short (3) - value: b'\x00\x01'
+2025-03-30 15:00:15,487:DEBUG:tag: XResolution (282) - type: rational (5) Tag Location: 34 - Data Location: 74 - value: b'\x00\x00\x00H\x00\x00\x00\x01'
+2025-03-30 15:00:15,487:DEBUG:tag: YResolution (283) - type: rational (5) Tag Location: 46 - Data Location: 82 - value: b'\x00\x00\x00H\x00\x00\x00\x01'
+2025-03-30 15:00:15,487:DEBUG:tag: Software (305) - type: string (2) Tag Location: 58 - Data Location: 90 - value: <table: 36 bytes>
+2025-03-30 15:00:15,487:DEBUG:tag: ExifIFD (34665) - type: long (4) - value: b'\x00\x00\x00~'
+2025-03-30 15:00:15,599:ERROR:JSON LOAD ERROR => FileNotFoundError(2, 'No such file or directory')
+2025-03-30 15:03:48,759:DEBUG:[PROGRAM-START]
+2025-03-30 15:03:49,028:DEBUG:STREAM b'IHDR' 16 13
+2025-03-30 15:03:49,028:DEBUG:STREAM b'iCCP' 41 1038
+2025-03-30 15:03:49,028:DEBUG:iCCP profile name b'kCGColorSpaceGenericRGB'
+2025-03-30 15:03:49,028:DEBUG:Compression method 0
+2025-03-30 15:03:49,029:DEBUG:STREAM b'eXIf' 1091 120
+2025-03-30 15:03:49,029:DEBUG:STREAM b'pHYs' 1223 9
+2025-03-30 15:03:49,029:DEBUG:STREAM b'iTXt' 1244 345
+2025-03-30 15:03:49,029:DEBUG:STREAM b'IDAT' 1601 4062
+2025-03-30 15:03:49,038:DEBUG:tag: Orientation (274) - type: short (3) - value: b'\x00\x01'
+2025-03-30 15:03:49,038:DEBUG:tag: XResolution (282) - type: rational (5) Tag Location: 34 - Data Location: 74 - value: b'\x00\x00\x00H\x00\x00\x00\x01'
+2025-03-30 15:03:49,038:DEBUG:tag: YResolution (283) - type: rational (5) Tag Location: 46 - Data Location: 82 - value: b'\x00\x00\x00H\x00\x00\x00\x01'
+2025-03-30 15:03:49,038:DEBUG:tag: Software (305) - type: string (2) Tag Location: 58 - Data Location: 90 - value: <table: 36 bytes>
+2025-03-30 15:03:49,038:DEBUG:tag: ExifIFD (34665) - type: long (4) - value: b'\x00\x00\x00~'
+2025-03-30 15:03:49,155:ERROR:JSON LOAD ERROR => FileNotFoundError(2, 'No such file or directory')
+2025-03-30 15:03:56,207:ERROR:[Errno 98] Address already in use
+2025-03-30 15:18:11,485:DEBUG:STREAM b'IHDR' 16 13
+2025-03-30 15:18:11,485:DEBUG:STREAM b'iCCP' 41 1038
+2025-03-30 15:18:11,485:DEBUG:iCCP profile name b'kCGColorSpaceGenericRGB'
+2025-03-30 15:18:11,485:DEBUG:Compression method 0
+2025-03-30 15:18:11,485:DEBUG:STREAM b'eXIf' 1091 120
+2025-03-30 15:18:11,485:DEBUG:STREAM b'pHYs' 1223 9
+2025-03-30 15:18:11,485:DEBUG:STREAM b'iTXt' 1244 345
+2025-03-30 15:18:11,485:DEBUG:STREAM b'IDAT' 1601 4062
+2025-03-30 15:18:11,496:DEBUG:tag: Orientation (274) - type: short (3) - value: b'\x00\x01'
+2025-03-30 15:18:11,496:DEBUG:tag: XResolution (282) - type: rational (5) Tag Location: 34 - Data Location: 74 - value: b'\x00\x00\x00H\x00\x00\x00\x01'
+2025-03-30 15:18:11,496:DEBUG:tag: YResolution (283) - type: rational (5) Tag Location: 46 - Data Location: 82 - value: b'\x00\x00\x00H\x00\x00\x00\x01'
+2025-03-30 15:18:11,496:DEBUG:tag: Software (305) - type: string (2) Tag Location: 58 - Data Location: 90 - value: <table: 36 bytes>
+2025-03-30 15:18:11,496:DEBUG:tag: ExifIFD (34665) - type: long (4) - value: b'\x00\x00\x00~'
+2025-03-30 15:18:11,618:ERROR:JSON LOAD ERROR => FileNotFoundError(2, 'No such file or directory')
+2025-03-30 15:18:17,682:DEBUG:[CONNECTED][THREAD STARTED] ip=192.168.0.2, port=2000

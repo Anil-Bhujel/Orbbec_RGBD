@@ -1,0 +1,34 @@
+{
+  "log_txrx":0,
+
+ "asr_settings":
+ {
+   "mode":"trigger",
+   "timeout_ms":600,
+   "request_interval_ms":1000
+
+ },
+
+ "tcpip_server":
+ {
+   "ip":"192.168.0.1",
+   "port":12345
+ },
+
+ 
+ "pens":[
+
+ 
+     {
+       "no":"1/2",
+         "readers":[
+     
+             {"no":"1A","ip":"192.168.0.2","camera":"0","split_antennas":[{"pen":1,"antenna":[1,2]},{"pen":2,"antenna":[3,4]}]}
+         ]
+     }
+
+   ]
+
+}
+
+

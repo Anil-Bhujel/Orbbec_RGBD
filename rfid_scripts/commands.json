@@ -1,0 +1,57 @@
+{
+    "commands":
+    [ 
+        {"get_serial_number":"02 FF F0 08 2F 03"},
+        {"device_check":"02 FF F0 51 B3 03"},
+        
+        {"get_config_all":"02 FF F0 27 FF 03"},
+        {"get_power":"02 FF F0 29 45 2E 03"},
+        {"set_RF_power_3_7.5V": "02 FF F0 28 45 1E 3A 03"},
+        {"set_RF_power_4_9V":   "02 FF F0 28 45 32 46 03"},
+        {"set_RF_power_5_10.5V":"02 FF F0 28 45 46 C2 03"},
+        {"set_RF_power_6_12V":  "02 FF F0 28 45 64 24 03"},
+        
+        {"get_operating_mode":"02 FF F0 29 31 AA 03"},
+        {"set_operating_mode_continuous":"02 FF F0 28 31 00 EE 03"},
+        {"set_operating_mode_trigger":"02 FF F0 28 31 10 02 C2 03"},
+
+        {"set_timeout_continuous_100ms":"02 FF F0 28 35 10 02 CE 03"},
+        {"set_timeout_continuous_500ms":"02 FF F0 28 35 0A 3B 03"},
+        {"set_timeout_continuous_1000ms":"02 FF F0 28 35 14 B6 03"},
+        {"set_timeout_continuous_5000ms":"02 FF F0 28 35 64 D3 03"},
+        
+        {"get_rcvr_sensitivity_fdx":"02 FF F0 29 51 D8 03"},
+        {"set_rcvr_sensitivity_fdx_50":"02 FF F0 28 51 32 B2 03"},
+        {"set_rcvr_sensitivity_fdx_75":"02 FF F0 28 51 4B 00 03"},
+        {"set_rcvr_sensitivity_fdx_100":"02 FF F0 28 51 64 D0 03"},
+
+        {"get_mux_antennas_enabled":"02 FF F0 C2 B0 03"},
+        {"set_mux_antenna_enable_1":"02 FF F0 C1 01 00 4A 03"},
+        {"set_mux_antenna_enable_1_through_5":"02 FF F0 C1 1F 00 C4 03"},
+        {"set_mux_antenna_enable_1_through_8":"02 FF F0 C1 FF 00 5B 03"},
+
+        {"get_mux_speed":"02 FF F0 C4 99 03"},
+        {"set_mux_speed_1":"02 FF F0 C3 01 76 03"},
+        {"set_mux_speed_10":"02 FF F0 C3 0A 69 03"},
+        
+
+        {"get_antennaStatus_1":"02 FF F0 8F 01 EC 03"},
+        {"get_antennaStatus_2":"02 FF F0 8F 10 02 99 03"},
+        {"get_antennaStatus_3":"02 FF F0 8F 10 03 FD 03"},
+        {"get_antennaStatus_4":"02 FF F0 8F 04 69 03"},
+        {"get_antennaStatus_5":"02 FF F0 8F 05 0D 03"}
+        
+
+        
+        
+        
+
+    ],
+
+    "notes":
+    [
+        {"code":"C1","note":"C1 is set mux, you specify antenna mask 01/1F etc but also needs 00 after antenna mask"},
+        {"code":""}
+    ]
+
+}

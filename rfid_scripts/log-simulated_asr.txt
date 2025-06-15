@@ -1,0 +1,25 @@
+
+---@ 2024-10-30 09:30:08 --------
+incorrect Usage. Usage:  script_name.py  host.ip.address   host.portNo   randomFrameCount  client.ip.address.to.use
+
+Example 1:		 script_name.py  192.168.0.100  12345  5  192.168.0.52			(tcp server at 192.168.0.100, port=12345, send upto 5 reads, and respond from 192.168.0.52)
+
+
+Example 1:		 script_name.py  127.0.0.1  12345  3  127.0.0. 1			(tcp server at localhost, port=12345, send upto 5 reads, and respond from localhost)
+---@ 2025-03-30 14:26:28 --------
+incorrect Usage. Usage:  script_name.py  host.ip.address   host.portNo   randomFrameCount  client.ip.address.to.use
+
+Example 1:		 script_name.py  192.168.0.100  12345  5  192.168.0.52			(tcp server at 192.168.0.100, port=12345, send upto 5 reads, and respond from 192.168.0.52)
+
+
+Example 1:		 script_name.py  127.0.0.1  12345  3  127.0.0. 1			(tcp server at localhost, port=12345, send upto 5 reads, and respond from localhost)
+---@ 2025-03-30 14:26:28 --------
+Socket could not connect to host(127.0.0.1,12345)
+
+---@ 2025-03-30 14:28:09 --------
+incorrect Usage. Usage:  script_name.py  host.ip.address   host.portNo   randomFrameCount  client.ip.address.to.use
+
+Example 1:		 script_name.py  192.168.0.100  12345  5  192.168.0.52			(tcp server at 192.168.0.100, port=12345, send upto 5 reads, and respond from 192.168.0.52)
+
+
+Example 1:		 script_name.py  127.0.0.1  12345  3  127.0.0. 1			(tcp server at localhost, port=12345, send upto 5 reads, and respond from localhost)
