@@ -99,7 +99,7 @@ Edit IP and camera name in:
 ### Build the packages
 
 ```bash
-cd ~/dcs_ws/gilt_data_collection
+cd ~/dcs_ws/Orbbec_RGBD
 colcon build --event-handlers console_direct+ --cmake-args -DCMAKE_BUILD_TYPE=Release
 ```
 
