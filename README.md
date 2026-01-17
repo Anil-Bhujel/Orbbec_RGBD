@@ -35,8 +35,8 @@ cd dcs_ws
 ### Clone Gitlab Repository
 
 ```bash
-git clone https://gitlab.msu.edu/bhujelan/gilt_data_collection
-cd gilt_data_collection
+git clone https://github.com/Anil-Bhujel/Orbbec_RGBD.git
+cd Orbbec_RGBD
 ```
 
 ### Create a Python virtual environment and activate
